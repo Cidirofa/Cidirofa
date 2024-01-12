@@ -1,0 +1,3 @@
+- 👋 Hi, @Cidirofa
+- 👀 I’m interested in deep learning, machine learning, AIGC
+- 😄 Pronouns: He/him
